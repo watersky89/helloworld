@@ -12,5 +12,5 @@ count = ARGV[1].to_i
 name = "World" if name.empty?
 
 count.times do
-  puts "Hello, #{name}"
+  puts "Hello there, #{name}"
 end
